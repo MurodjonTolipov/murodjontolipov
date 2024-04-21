@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Murodjon
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Jetpack Compose
+- 📫 How to reach me @Murodjon_Tolipov on Telegram
